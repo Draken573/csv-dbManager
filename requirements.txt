@@ -1,0 +1,5 @@
+cx-Oracle
+pandas
+colorama
+tqdm
+python-dotenv
