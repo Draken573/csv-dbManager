@@ -1,46 +1,44 @@
 # CSV-DB Manager 🗄️
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/csv-db-manager)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/csv-db-manager)
+![GitHub](https://img.shields.io/github/license/your-user/csv-db-manager)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-user/csv-db-manager)
 
-O CSV-DB Manager é uma ferramenta que facilita a interação com dados em formato CSV e bancos de dados Oracle, oferecendo funcionalidades para limpar tabelas, inserir novos dados e realizar operações combinadas.
+CSV-DB Manager is a tool that facilitates interaction with data in CSV format and Oracle databases, offering features to clean tables, insert new data, and perform combined operations.
 
-## Recursos 🚀
+## Features 🚀
 
-- Limpeza de tabelas no banco de dados 🧹
-- Inserção de novos dados a partir de arquivos CSV 📊
-- Limpeza e inserção combinadas 🔄
+- Table cleaning in the database 🧹
+- Insertion of new data from CSV files 📊
+- Combined cleaning and insertion 🔄
 
-## Como Utilizar 📝
+## How to Use 📝
 
-1. **Configuração:**
-   Certifique-se de ter o Python e as dependências necessárias instaladas. Caso não tenha, siga as instruções no [Python](https://www.python.org/downloads/) e instale as dependências do projeto com o comando:
+1. **Setup:**
+   Make sure you have Python and the necessary dependencies installed. If you don't, follow the instructions on [Python](https://www.python.org/downloads/) and install the project's dependencies with the following command:
 
+2. **Execution:**
+   In the terminal, navigate to the project folder and execute the `main.py` file:
 
-2. **Execução:**
-No terminal, navegue até a pasta do projeto e execute o arquivo `main.py`:
+3. **Options:**
+   Choose one of the menu options to interact with the database tables.
 
+4. **Data Input:**
+   Provide the table name and, in some options, the path to the CSV file.
 
-3. **Opções:**
-Escolha uma das opções do menu para interagir com as tabelas do banco de dados.
+5. **Operations:**
+   Perform the desired operation, whether it's cleaning the table, inserting new data, or performing combined cleaning and insertion.
 
-4. **Entrada de Dados:**
-Forneça o nome da tabela e, em algumas opções, o caminho do arquivo CSV.
+6. **Results:**
+   The program will provide feedback on the progress and results of the operations.
 
-5. **Operações:**
-Realize a operação desejada, seja limpar a tabela, inserir novos dados ou limpar e inserir combinados.
+## Usage Example 👁️‍🗨️
 
-6. **Resultados:**
-O programa apresentará feedbacks sobre o progresso e resultados das operações.
+Suppose you want to clean a table named `TB_VEICULO_MOVIMENTACAO` and then insert new data from a CSV file. Follow the program's instructions and input the table name and the path to the CSV file.
 
-## Exemplo de Uso 👁️‍🗨️
+## License 📜
 
-Suponha que você deseje limpar uma tabela chamada `TB_VEICULO_MOVIMENTACAO` e depois inserir novos dados de um arquivo CSV. Siga as instruções do programa e insira o nome da tabela e o caminho do arquivo CSV.
-
-## Licença 📜
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Feito com 💪 por [Anderson Monteiro](https://github.com/Draken573)💻
+Made with 💪 by [Anderson Monteiro](https://github.com/Draken573)💻
